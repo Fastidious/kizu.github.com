@@ -1,5 +1,6 @@
 ---
-layout: 'redirect'
-permalink: 'blog/'
-target: 'everything/#blog'
+permalink: blog/
+layout: redirect
+target: everything/#blog
 ---
+

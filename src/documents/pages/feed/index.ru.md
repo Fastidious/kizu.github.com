@@ -1,4 +1,5 @@
 ---
-layout: feed
 permalink: feed.xml
+layout: feed
 ---
+

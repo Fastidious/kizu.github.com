@@ -1,5 +1,6 @@
 ---
-layout: 'redirect'
-permalink: 'issues/'
-target: 'everything/#issues'
+permalink: issues/
+layout: redirect
+target: everything/#issues
 ---
+

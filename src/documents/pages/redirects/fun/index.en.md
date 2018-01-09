@@ -1,5 +1,6 @@
 ---
-layout: 'redirect'
-permalink: 'en/fun/'
-target: 'en/everything/#fun'
+permalink: en/fun/
+layout: redirect
+target: en/everything/#fun
 ---
+

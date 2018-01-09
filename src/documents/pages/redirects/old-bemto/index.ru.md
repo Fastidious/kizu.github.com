@@ -1,5 +1,6 @@
 ---
-layout: 'redirect'
-permalink: 'bemto/'
-target: 'projects/bemto/'
+permalink: bemto/
+layout: redirect
+target: projects/bemto/
 ---
+

@@ -1,7 +1,5 @@
 ---
-
 invisible: true
-
 ---
 
 # Think before read

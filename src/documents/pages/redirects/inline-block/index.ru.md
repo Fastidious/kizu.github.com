@@ -1,5 +1,6 @@
 ---
-layout: 'redirect'
-permalink: 'tag/inline-block/'
-target: 'issues/old/inline-block-solved/'
+permalink: tag/inline-block/
+layout: redirect
+target: issues/old/inline-block-solved/
 ---
+

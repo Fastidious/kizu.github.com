@@ -1,5 +1,6 @@
 ---
-layout: 'redirect'
-permalink: 'projects/'
-target: 'everything/#projects'
+permalink: projects/
+layout: redirect
+target: everything/#projects
 ---
+
