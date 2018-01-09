@@ -2,9 +2,6 @@
 title: Kizu.Github.Com
 timezone: UTC
 collections:
-  ".-src-documents-posts":
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
